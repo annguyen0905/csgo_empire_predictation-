@@ -44,7 +44,7 @@ public class Main {
         WebElement signInBtn = driver.findElement(By.cssSelector("input[id='imageLogin']"));
         // Enter you username & password
         txtUsername.sendKeys("chanhquangbinh");
-        txtPassword.sendKeys("Helloan0905@#");
+        txtPassword.sendKeys("");
         signInBtn.click();
 
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("input[class='bg-transparent w-full h-full relative z-10']")));
