@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/untitled1.iml" filepath="$PROJECT_DIR$/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoinEmpireProphet.iml" filepath="$PROJECT_DIR$/.idea/modules/CoinEmpireProphet.iml" group="CoinEmpireProphet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="CoinEmpireProphet/app" />
     </modules>
   </component>
 </project>

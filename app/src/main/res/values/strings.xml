@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coin Prophet</string>
+    <string name="hello_blank_fragment">This is splash</string>
+    <string name="info_title">Setup Info</string>
+    <string name="balance">Balance</string>
+    <string name="initial_bet">Base Bet</string>
+    <string name="button_go">Go</string>
+    <string name="about">About</string>
+    <string name="coin_prophet">COIN PROPHET</string>
+    <string name="next_result">Next Coin</string>
+    <string name="round">History round %1$s</string>
+    <string name="found">Possible result found</string>
+    <string name="explain">Explanation</string>
+    <string name="explain_uppercase">EXPLANATION</string>
+</resources>
